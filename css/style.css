@@ -4,22 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Animação drone */
-
-/* #anima2-div{
-    /* background: url("../imgs/group4.png") -4946px -0px no-repeat; */
-    /* background: url("../imgs/group5.png") -675px -0px no-repeat;
-    /* width: 113px; */
-    /* width: 100%; */
-    /* height: 108px; */
-    /* animation: anima2-sprite 2s steps(6) infinite; */
-/* } */
-
-/* @keyframes anima2-sprite{ */
-    /* from{background-position: 0px;} */
-    /* to{background-position: -675px;} */
-/* } */
-
 /* Animação robô */
 
 #anima-div{
