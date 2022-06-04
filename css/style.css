@@ -4,34 +4,18 @@
     box-sizing: border-box;
 }
 
-/* Animação drone */
-
-/* #anima2-div{
-    /* background: url("../imgs/group4.png") -4946px -0px no-repeat; */
-    /* background: url("../imgs/group5.png") -675px -0px no-repeat;
-    /* width: 113px; */
-    /* width: 100%; */
-    /* height: 108px; */
-    /* animation: anima2-sprite 2s steps(6) infinite; */
-/* } */
-
-/* @keyframes anima2-sprite{ */
-    /* from{background-position: 0px;} */
-    /* to{background-position: -675px;} */
-/* } */
-
 /* Animação robô */
 
 #anima-div{
     /* background: url("../imgs/group4.png") -4946px -0px no-repeat; */
-    background: url("../imgs/group2.png") -11960px -0px no-repeat;
+    background: url("../imgs/group2.png") -13793px -0px no-repeat;
     width: 460px;
     height: 268px;
-    animation: anima-sprite 15s steps(26) infinite;
+    animation: anima-sprite 12s steps(30) infinite;
 }
 
 @keyframes anima-sprite{
     from{background-position: 0px;}
-    to{background-position: -11960px;}
+    to{background-position: -13793px;}
 }
 
