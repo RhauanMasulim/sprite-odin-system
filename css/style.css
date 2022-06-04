@@ -7,11 +7,18 @@
 /* Animação robô */
 
 #anima-div{
+<<<<<<< HEAD
     /* background: url("../imgs/group4.png") -4946px -0px no-repeat; */
     background: url("../imgs/group2.png") -13793px -0px no-repeat;
     width: 460px;
     height: 268px;
     animation: anima-sprite 12s steps(30) infinite;
+=======
+    background: url("../imgs/group2.png") -11960px -0px no-repeat;
+    width: 460px;
+    height: 268px;
+    animation: anima-sprite 9s steps(26) infinite;
+>>>>>>> c14f6e07346bbb0ddacf14a49590e5280194937a
 }
 
 @keyframes anima-sprite{
